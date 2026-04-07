@@ -144,4 +144,4 @@ smartcart/
 
 ## 🙋 Author
 
-Made with ❤️ — feel free to fork and build on it!
+Prijesh Shrestha
